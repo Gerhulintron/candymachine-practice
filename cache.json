@@ -1,0 +1,106 @@
+{
+  "program": {
+    "candyMachine": "AyUxUXeZwGTF32bLsHZF5tmKG9ousrn9p3a5rYsjrkyq",
+    "candyGuard": "",
+    "candyMachineCreator": "14AgdfdSkEyY6pkq4nZK3wzznGtrgTY4MoZ7noC4Gr6F",
+    "collectionMint": "AWQASw5cb2hszWWHeZ8impBpABeGxBAwEv2NYZu7F7E3"
+  },
+  "items": {
+    "-1": {
+      "name": "The Meta Microwaves III",
+      "image_hash": "2db4f9e51fb49c36f99f6eb4784eab7cb2641925c104ade701ce1dfb8afa34d3",
+      "image_link": "https://arweave.net/L4AdbTYXZ8gu77eMrPfZYWimSnvSCB0k9g9-AiHrw_Y?ext=png",
+      "metadata_hash": "7b93cb638b64d2e0abd1d100c0b54b51d32707360a11b922f9bff6e080a15c77",
+      "metadata_link": "https://arweave.net/MexSeQqsAV-b5hLwOk4yazWeF1jn-ErPXhnlHP_5wWk",
+      "onChain": true
+    },
+    "0": {
+      "name": "Meta Microwave #0",
+      "image_hash": "b35a823db28ab099afe52e527091d79a6a99a7e215cc013335a4a9601976c108",
+      "image_link": "https://arweave.net/BGInCggBHXx_ND0vibFCGrdWA8GpJtE5QhSWjC9wyco?ext=png",
+      "metadata_hash": "2c89529dfdbc04065d8c266644e507aab8f842679441f9f17d21334dbcd10412",
+      "metadata_link": "https://arweave.net/KI6Cu_CTvzr7HN3-sz9-HPgaLY8MLp3poN6pKCYwD7U",
+      "onChain": true
+    },
+    "1": {
+      "name": "Meta Microwave #1",
+      "image_hash": "99520e581109519b81228fe2e0f7b347fa2673f3b19c2864f7eccd6a92a28b22",
+      "image_link": "https://arweave.net/IQbHrIIlpSnwPRtlUWsKUE9Wa1oP8g-sgsCiO0uGUX4?ext=png",
+      "metadata_hash": "ddb90eb61b6ef51f1881426a6bc6bbafa16f307c5fb102c7fb65a8b6d8214521",
+      "metadata_link": "https://arweave.net/57XE9y3DP7PdDDW4wnXOccTxNzKafsUGkCZTHbAY3fk",
+      "onChain": true
+    },
+    "2": {
+      "name": "Meta Microwave #2",
+      "image_hash": "7b68c1c13116ccbe34c883014025cf792531e4361b2e4d627060b9b7cef2d30b",
+      "image_link": "https://arweave.net/4O1c1-w_iHk6z76lltvjRD0NfWS9EYQSsGp5JFYQlDU?ext=png",
+      "metadata_hash": "1441f96827e79779c888ef1b26773fbc64b813bc88f916bde9ff527b01987780",
+      "metadata_link": "https://arweave.net/ag8CEAGfqe8875DqavaHnDuE0ZSbHjADN9B6dh7oXms",
+      "onChain": true
+    },
+    "3": {
+      "name": "Meta Microwave #3",
+      "image_hash": "812003d41a799e2e399054f8a1b41385d42d05e182e2873835612d3398be2efc",
+      "image_link": "https://arweave.net/i7xtAfhnvnnoWfDH_2qlX6-hNuYr5_M6RvZ-uU1djlI?ext=png",
+      "metadata_hash": "b80e8b0a81cdc965b90db265c38edbfbb04e8a96efd57890693535b7a414a10f",
+      "metadata_link": "https://arweave.net/Zkt7vaccwkeoqFlNU4kIDjnMZ9xsjoks5OyOZbzqTMs",
+      "onChain": true
+    },
+    "4": {
+      "name": "Meta Microwave #4",
+      "image_hash": "139e375193d539930b3cfe23ba53dbb5ddd95333bf6534bf05518d7a784e3f12",
+      "image_link": "https://arweave.net/S4Ikabb4GVrh96haZHekF_oeoNOZnZNZEvOAMny06Ok?ext=png",
+      "metadata_hash": "42e37d005a63a250bb6931551a7b95f2ae1bde9219b0862a68ec02f1dc41be59",
+      "metadata_link": "https://arweave.net/cRewf3qGYo6IsZ3z93iVaaftqZjyvmJjSIMg7cOPf_Y",
+      "onChain": true
+    },
+    "5": {
+      "name": "Meta Microwave #5",
+      "image_hash": "609c2593851774503d8748e94d78c56f61debfe6e15dcb8078929ef8ae2f08ab",
+      "image_link": "https://arweave.net/phBfEQGd6TqjnDJnED8dSnhJXCVroRyv9cGm3hRjjgM?ext=png",
+      "metadata_hash": "b00877e5ed4cd9ef1608a3fc977dc9601eb166a2a8b7e1bce265f29ce520376b",
+      "metadata_link": "https://arweave.net/tyW5_AnjbtynqMe6bSHIhtS5QQEBdl_WRHydXoLHC8w",
+      "onChain": true
+    },
+    "6": {
+      "name": "Meta Microwave #6",
+      "image_hash": "cf27ffa609aa09e17efd95062bb41fb271b1a026f57040d4215b39e784ab874f",
+      "image_link": "https://arweave.net/pUdJQt_52M95mGMcJM9ilOKk4TZyl0OXaYpvzjDPLcI?ext=png",
+      "metadata_hash": "bd7c0b4b0836fb0eb4c05e276c3b0301b55249195425429d9f83cb66bde5e072",
+      "metadata_link": "https://arweave.net/cCtmeGS0MZwLErGgwofX0WId6j-K17kL8XbWmRfSCUs",
+      "onChain": true
+    },
+    "7": {
+      "name": "Meta Microwave #7",
+      "image_hash": "faf79a5b3553e997b9df22a9ff9e50af1bd71260ae17b663339b2e5b4d960713",
+      "image_link": "https://arweave.net/BzAf2xqEFhAESJfcQOQjNcyE1u5mL-HIqZNBwPsjiYk?ext=png",
+      "metadata_hash": "1e7fcfb7551d701b427de74a7a45e93f28fb3cda2dd9fcf796695aaf0fe7a5ca",
+      "metadata_link": "https://arweave.net/fbFfdCY5ytsyMhU3neUqfyck-ocPo8YAf__drpLqbU0",
+      "onChain": true
+    },
+    "8": {
+      "name": "Meta Microwave #8",
+      "image_hash": "fb2af740269c4ecc49899f451b049ade4a1a1fb92acac1f120f301764b0f33d5",
+      "image_link": "https://arweave.net/2CffOdSpU8sKsMbo-sKaH4HUzm6BBi7n118UgP9UyUY?ext=png",
+      "metadata_hash": "496593392c4e82892267e149f5c901fdacbf6afa23cd6823f25dab4de01d7edf",
+      "metadata_link": "https://arweave.net/AB8vx5s554qjTCaQFEs8R7HPDVSjMmfb55vZJ866bj4",
+      "onChain": true
+    },
+    "9": {
+      "name": "Meta Microwave #9",
+      "image_hash": "209302c12a6331f584b8451e1eff388e27228f4b9c3dea5073a25728ea65fd53",
+      "image_link": "https://arweave.net/PAtVHDc8oVWasfstYYHtXU7c0nuuReInbjrn5i8nO5E?ext=png",
+      "metadata_hash": "23d71a75aaaab415796ec339e37fa703b54a5d524297b2d38eb84352c3eb554e",
+      "metadata_link": "https://arweave.net/DCz-JfAxz-fW3ZBbNUw6VZqPBmwfO8fwqbL70Ggib0U",
+      "onChain": true
+    },
+    "10": {
+      "name": "Meta Microwave #10",
+      "image_hash": "1a726797136f79522550b33b3fb130f91f25736fcd0dbfe5a298ebbe67eba57d",
+      "image_link": "https://arweave.net/3rfJ1Bul2Vv3HfHOSv1aEXozH6PEbmLazMwTMXgaitQ?ext=png",
+      "metadata_hash": "49b6cb58dcc5ea472d8c2421d8a37d96ce97f2c4e2deb0a9e9816ce9da2c241f",
+      "metadata_link": "https://arweave.net/2v0oBeJj2HHQTP8JBySZ4uizEl2j217_pLO58HJC4N4",
+      "onChain": true
+    }
+  }
+}
